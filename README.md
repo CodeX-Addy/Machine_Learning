@@ -1,1 +1,1 @@
-This repo includes the implementation of various libraries used for making ml models in Colab sheet.
+This repo includes the implementation of various libraries used for making ML models in Colab sheet.
