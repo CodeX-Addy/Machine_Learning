@@ -1,1 +1,1 @@
-This repo includes the implementation of necessaries libraries required for making machine learning models.
+This repo includes various machine learning algorithms & required libraries along with their implementations
